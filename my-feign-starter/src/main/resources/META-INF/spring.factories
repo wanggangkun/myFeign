@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.kun.starter.HttpClientAuthConfig,\
+    com.kun.starter.SpringMvcConfigurerAutoConfig
